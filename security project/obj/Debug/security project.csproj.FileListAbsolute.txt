@@ -1,0 +1,30 @@
+C:\Users\El Alamia\source\repos\security project\security project\bin\Debug\security project.exe.config
+C:\Users\El Alamia\source\repos\security project\security project\bin\Debug\security project.exe
+C:\Users\El Alamia\source\repos\security project\security project\bin\Debug\security project.pdb
+C:\Users\El Alamia\source\repos\security project\security project\obj\Debug\security project.csproj.AssemblyReference.cache
+C:\Users\El Alamia\source\repos\security project\security project\obj\Debug\security_project.Form1.resources
+C:\Users\El Alamia\source\repos\security project\security project\obj\Debug\security_project.Form2.resources
+C:\Users\El Alamia\source\repos\security project\security project\obj\Debug\security_project.Form3.resources
+C:\Users\El Alamia\source\repos\security project\security project\obj\Debug\security_project.Form4.resources
+C:\Users\El Alamia\source\repos\security project\security project\obj\Debug\security_project.Properties.Resources.resources
+C:\Users\El Alamia\source\repos\security project\security project\obj\Debug\security project.csproj.GenerateResource.cache
+C:\Users\El Alamia\source\repos\security project\security project\obj\Debug\security project.csproj.CoreCompileInputs.cache
+C:\Users\El Alamia\source\repos\security project\security project\obj\Debug\security project.exe
+C:\Users\El Alamia\source\repos\security project\security project\obj\Debug\security project.pdb
+C:\Users\El Alamia\source\repos\security project\security project\obj\Debug\security_project.Form5.resources
+C:\Users\El Alamia\source\repos\security project\security project\obj\Debug\security_project.Form6.resources
+C:\Users\El Alamia\source\repos\security project\security project\obj\Debug\security_project.Form7.resources
+C:\Users\El Alamia\source\repos\security project\security project\obj\Debug\security_project.Form10.resources
+C:\Users\El Alamia\source\repos\security project\security project\obj\Debug\security_project.Form8.resources
+C:\Users\El Alamia\source\repos\security project\security project\obj\Debug\security_project.Form9.resources
+C:\Users\El Alamia\source\repos\security project\security project\obj\Debug\security_project.Form11.resources
+C:\Users\El Alamia\source\repos\security project\security project\obj\Debug\security_project.Form12.resources
+C:\Users\El Alamia\source\repos\security project\security project\obj\Debug\security_project.Form13.resources
+C:\Users\El Alamia\source\repos\security project\security project\obj\Debug\security_project.Form14.resources
+C:\Users\El Alamia\source\repos\security project\security project\obj\Debug\security_project.Form15.resources
+C:\Users\El Alamia\source\repos\security project\security project\obj\Debug\security_project.Form16.resources
+C:\Users\El Alamia\source\repos\security project\security project\obj\Debug\security_project.Form17.resources
+C:\Users\El Alamia\source\repos\security project\security project\obj\Debug\security_project.Form18.resources
+C:\Users\El Alamia\source\repos\security project\security project\obj\Debug\security_project.Form19.resources
+C:\Users\El Alamia\source\repos\security project\security project\obj\Debug\security_project.Form20.resources
+C:\Users\El Alamia\source\repos\security project\security project\obj\Debug\security_project.Form21.resources
